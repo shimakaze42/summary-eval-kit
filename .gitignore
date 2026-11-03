@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+
+# 著作権ガード: 評価対象データ（書籍原文・要約全文・章定義）は絶対にコミットしない
+book.txt
+summary.md
+chapters.json
+data/
